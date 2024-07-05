@@ -1,8 +1,18 @@
-# React + Vite
+# Install Project
+`git clone git@github.com:ploynapatbunsena/Tesla.git`
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Run Project
+`npm run dev`
 
-Currently, two official plugins are available:
+# Details of Project
+![image](https://github.com/ploynapatbunsena/Tesla/assets/112202790/4c315caf-7d13-4b3b-b4c5-82363442c0a6)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Video Highlight
+![image](https://github.com/ploynapatbunsena/Tesla/assets/112202790/79ca6790-66bb-4900-a6f6-f5b2f7fc09c3)
+
+## Model
+![image](https://github.com/ploynapatbunsena/Tesla/assets/112202790/1d368aa1-c90b-43d5-8311-1ae6d5b6c608)
+
+![image](https://github.com/ploynapatbunsena/Tesla/assets/112202790/39a5b3f4-2715-48fa-b79c-0624ddf3653f)
+
+![image](https://github.com/ploynapatbunsena/Tesla/assets/112202790/23b9333b-52c8-4fe3-9768-53f43cce671e)
