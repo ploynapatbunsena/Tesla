@@ -1,7 +1,7 @@
 # Install Project
 `git clone git@github.com:ploynapatbunsena/Tesla.git`
 
-# Run Project
+# Run Project in terminal with command
 `npm run dev`
 
 # Details of Project
