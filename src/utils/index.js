@@ -10,7 +10,6 @@ import highlightSectmv from "/assets/videos/highlight-third.mp4";
 import highlightThirdmv from "/assets/videos/highlight-sec.mp4";
 import highlightFourthmv from "/assets/videos/highlight-fourth.mp4";
 import exploremv from "/assets/videos/explore.mp4";
-import framemv from "/assets/videos/frame.mp4";
 import monitoring from "/assets/videos/monitoring.jpg"
 
 import tesla from "/assets/images/tesla.png";
@@ -44,7 +43,6 @@ export const highlightSecondVideo = highlightSectmv;
 export const highlightThirdVideo = highlightThirdmv;
 export const highlightFourthVideo = highlightFourthmv;
 export const exploreVideo = exploremv;
-export const frameVideo = framemv;
 export const monitoringFrame = monitoring;
 
 export const teslaImg = tesla;
